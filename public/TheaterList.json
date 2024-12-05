@@ -1,0 +1,44 @@
+[
+	{
+	  "id":1,
+	  "districtId":1,
+	  "nameEn": "PVR Cinema",
+	  "location":"අම්පාර",
+	  "tp":"0771234567",
+	  "time":"10.00 AM | 1.00 PM"
+	  
+	  
+	},
+	{
+		"id":2,
+		"districtId":1,
+		"nameEn": "PVR Cinema12",
+		"location":"අම්පාර",
+		"tp":"0771234567",
+		"time":"8.00 AM | 11.00 AM"
+	},
+	{
+		"id":3,
+		"districtId":1,
+		"nameEn": "PVR Cinema123",
+		"location":"අම්පාර",
+		"tp":"0771234567",
+		"time":"8.00 AM | 11.00 AM"
+	},
+	{
+		"id":4,
+		"districtId":1,
+		"nameEn": "PVR Cinema1234",
+		"location":"අම්පාර",
+		"tp":"0771234567",
+		"time":"8.00 AM | 11.00 AM"
+	},
+	{
+		"id":5,
+		"districtId":1,
+		"nameEn": "PVR Cinema12345",
+		"location":"අම්පාර",
+		"tp":"0771234567",
+		"time":"8.00 AM | 11.00 AM"
+	}
+]

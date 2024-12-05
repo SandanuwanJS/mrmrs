@@ -1,0 +1,128 @@
+[
+	{
+	  "id":1,
+	  "english": "Ampara",
+	  "sinhala": "අම්පාර"
+	},
+	{
+	  "id":2,
+	  "english": "Anuradhapura",
+	  "sinhala": "අනුරාධපුර"
+	},
+	{ 
+	  "id":3,
+	  "english": "Badulla",
+	  "sinhala": "බදුල්ල"
+	},
+	{
+	  "id":4,
+	  "english": "Batticaloa",
+	  "sinhala": "මඩකලපුව"
+	},
+	{
+	  "id":5,
+	  "english": "Colombo",
+	  "sinhala": "කොළඹ"
+	},
+	{
+	  "id":6,
+	  "english": "Galle",
+	  "sinhala": "ගාල්ල"
+	},
+	{
+	  "id":7,
+	  "english": "Gampaha",
+	  "sinhala": "ගම්පහ"
+	},
+	{
+	  "id":8,
+	  "english": "Hambantota",
+	  "sinhala": "හම්බන්තොට"
+	},
+	{
+	  "id":9,
+	  "english": "Jaffna",
+	  "sinhala": "යාපනය"
+	},
+	{
+	  "id":10,
+	  "english": "Kalutara",
+	  "sinhala": "කළුතර"
+	},
+	{
+	  "id":11,
+	  "english": "Kandy",
+	  "sinhala": "මහනුවර"
+	},
+	{
+	  "id":12,
+	  "english": "Kegalle",
+	  "sinhala": "කෑගල්ල"
+	},
+	{
+	  "id":13,
+	  "english": "Kilinochchi",
+	  "sinhala": "කිලිනොච්චිය"
+	},
+	{
+	  "id":14,
+	  "english": "Kurunegala",
+	  "sinhala": "කුරුණෑගල"
+	},
+	{
+	  "id":15,
+	  "english": "Mannar",
+	  "sinhala": "මන්නාරම"
+	},
+	{
+	  "id":16,
+	  "english": "Matale",
+	  "sinhala": "මාතලේ"
+	},
+	{
+	  "id":17,
+	  "english": "Matara",
+	  "sinhala": "මාතර"
+	},
+	{
+	  "id":18,
+	  "english": "Monaragala",
+	  "sinhala": "මොනරාගල"
+	},
+	{
+	  "id":19,
+	  "english": "Mullaitivu",
+	  "sinhala": "මුලතිව්"
+	},
+	{
+	  "id":20,
+	  "english": "Nuwara Eliya",
+	  "sinhala": "නුවරඑළිය"
+	},
+	{
+	  "id":21,
+	  "english": "Polonnaruwa",
+	  "sinhala": "පොලොන්නරුව"
+	},
+	{
+	  "id":22,
+	  "english": "Puttalam",
+	  "sinhala": "පුත්තලම"
+	},
+	{
+	  "id":23,
+	  "english": "Ratnapura",
+	  "sinhala": "රත්නපුර"
+	},
+	{
+	  "id":24,
+	  "english": "Trincomalee",
+	  "sinhala": "ත්‍රිකුණාමලය"
+	},
+	{
+	  "id":25,
+	  "english": "Vavuniya",
+	  "sinhala": "වවුනියාව"
+	}
+  ]
+  
